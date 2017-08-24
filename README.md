@@ -40,6 +40,6 @@ gulp.task('default', ['gulp-libs'])
 For the injection to work, you need this in your html file:
 
 ```html
-<!-- inject:angular-sort-annotate:js -->
+<!-- inject:libs:js -->
 <!-- endinject -->
 ```
