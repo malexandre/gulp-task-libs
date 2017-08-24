@@ -1,6 +1,6 @@
 {
   "name": "gulp-task-libs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gulp task to include the project libs into the HTML file with concat & uglify",
   "main": "index.js",
   "repository": "https://github.com/malexandre/gulp-task-libs.git",
